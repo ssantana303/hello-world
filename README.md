@@ -1,7 +1,6 @@
 # hello-world
 Intro lesson into GitHub.
-Hi World
+Hi World again
 
-This is a test and a lesson to be learned.
 
-Change numero uno.
+Change numero uno. Deleted stuff.
